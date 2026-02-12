@@ -31,7 +31,7 @@ Information & Status:
 "What devices are on?" → ChatGPT summarizes HA state
 "When did I last water the plants?" → ChatGPT checks automation logs
 
-
+***
 ha-autosponder/
 ├── README.md (project description)
 ├── requirements.txt (Python dependencies)
@@ -47,3 +47,4 @@ ha-autosponder/
 ├── examples/
 │   └── automation_examples.md
 └── .gitignore
+***
